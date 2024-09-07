@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\colin\\source\\repos\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{930C2495-6901-44CF-8D2E-3C4EE5493111}|ExcelAddIn1\\TaskManager.csproj|c:\\users\\colin\\source\\repos\\taskmanager\\exceladdin1\\ribbon1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930C2495-6901-44CF-8D2E-3C4EE5493111}|ExcelAddIn1\\TaskManager.csproj|solutionrelative:exceladdin1\\ribbon1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930C2495-6901-44CF-8D2E-3C4EE5493111}|ExcelAddIn1\\TaskManager.csproj|c:\\users\\colin\\source\\repos\\taskmanager\\exceladdin1\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930C2495-6901-44CF-8D2E-3C4EE5493111}|ExcelAddIn1\\TaskManager.csproj|solutionrelative:exceladdin1\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930C2495-6901-44CF-8D2E-3C4EE5493111}|ExcelAddIn1\\TaskManager.csproj|c:\\users\\colin\\source\\repos\\taskmanager\\exceladdin1\\thisaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930C2495-6901-44CF-8D2E-3C4EE5493111}|ExcelAddIn1\\TaskManager.csproj|solutionrelative:exceladdin1\\thisaddin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930C2495-6901-44CF-8D2E-3C4EE5493111}|ExcelAddIn1\\TaskManager.csproj|c:\\users\\colin\\source\\repos\\taskmanager\\exceladdin1\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{930C2495-6901-44CF-8D2E-3C4EE5493111}|ExcelAddIn1\\TaskManager.csproj|solutionrelative:exceladdin1\\ribbon1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ribbon1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\colin\\source\\repos\\TaskManager\\ExcelAddIn1\\Ribbon1.cs",
+              "RelativeDocumentMoniker": "ExcelAddIn1\\Ribbon1.cs",
+              "ToolTip": "C:\\Users\\colin\\source\\repos\\TaskManager\\ExcelAddIn1\\Ribbon1.cs [Design]",
+              "RelativeToolTip": "ExcelAddIn1\\Ribbon1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:13:48.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ribbon1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\source\\repos\\TaskManager\\ExcelAddIn1\\Ribbon1.Designer.cs",
+              "RelativeDocumentMoniker": "ExcelAddIn1\\Ribbon1.Designer.cs",
+              "ToolTip": "C:\\Users\\colin\\source\\repos\\TaskManager\\ExcelAddIn1\\Ribbon1.Designer.cs",
+              "RelativeToolTip": "ExcelAddIn1\\Ribbon1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:12:54.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ribbon1.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\source\\repos\\TaskManager\\ExcelAddIn1\\Ribbon1.cs",
+              "RelativeDocumentMoniker": "ExcelAddIn1\\Ribbon1.cs",
+              "ToolTip": "C:\\Users\\colin\\source\\repos\\TaskManager\\ExcelAddIn1\\Ribbon1.cs",
+              "RelativeToolTip": "ExcelAddIn1\\Ribbon1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:04:48.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThisAddIn.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\source\\repos\\TaskManager\\ExcelAddIn1\\ThisAddIn.cs",
+              "RelativeDocumentMoniker": "ExcelAddIn1\\ThisAddIn.cs",
+              "ToolTip": "C:\\Users\\colin\\source\\repos\\TaskManager\\ExcelAddIn1\\ThisAddIn.cs",
+              "RelativeToolTip": "ExcelAddIn1\\ThisAddIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:04:22.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
